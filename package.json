@@ -1,7 +1,6 @@
 {
-
   "homepage": "http://pramodblog123.github.io/react_host",
-  "name": "cal_app",
+  "name": "react_host",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
